@@ -6,3 +6,8 @@ const obj = {
 }
 
 console.log(obj.age);
+
+function Hello(){
+    console.log("hello");
+    
+}
