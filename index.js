@@ -6,3 +6,8 @@ function Hello(){
 
 
 
+const usermessage= "new feacture is added"
+
+function obj(){
+    const a =5;
+}
